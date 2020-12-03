@@ -3,4 +3,4 @@
 
 ---
 
-[t.me/findaddybot](t.me/findaddybot)
+[https://t.me/findaddybot](http://t.me/findaddybot)
